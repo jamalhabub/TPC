@@ -1,0 +1,95 @@
+Transport Payment Coin (TPC) – Whitepaper
+1. Project Overview
+
+Name: Transport Payment Coin (TPC)
+Symbol: TPC
+Blockchain: Binance Smart Chain (BEP-20)
+Contract Address: 0x2826A2dd79357cAaBD06739AE34e06bCcE4e80AD
+Decimals: 18
+
+Mission:
+TPC is designed to enable fast, secure, and low-cost payments within the transport and logistics sector using blockchain technology. It reduces fraud, automates payments via smart contracts, and ensures transparency.
+
+2. One-liner / Summary
+
+"Fast, secure, and low-cost blockchain payments for the transport and logistics ecosystem."
+
+3. Problem Statement
+
+Traditional payment systems in transport are slow and costly.
+
+Lack of transparency in transactions between carriers, drivers, and customers.
+
+Limited automation of contractual payments.
+
+4. Solution
+
+Blockchain-based payments: TPC enables instant peer-to-peer payments without intermediaries.
+
+Smart contracts: Automates payments and rewards for drivers, transport companies, and partners.
+
+Transparency & Security: All transactions are visible on Binance Smart Chain and fully auditable.
+
+5. Technical Architecture
+
+Blockchain: Binance Smart Chain (BEP-20)
+
+Smart Contract: TPC.sol
+
+Functionalities:
+
+Transfer of TPC tokens between wallets
+
+Integration with transport companies’ payment systems
+
+Event logging for payments and contract execution
+
+(Optional: Add a diagram showing the payment ecosystem / flow)
+
+6. Tokenomics
+
+Total Supply: 1,000,000,000 TPC (example)
+
+Circulating Supply: 500,000,000 TPC (example)
+
+Allocation:
+
+Team & Advisors: 10%
+
+Marketing & Partnerships: 15%
+
+Liquidity Pool: 25%
+
+Community & Staking Rewards: 50%
+
+Decimals: 18
+
+7. Roadmap
+Phase	Activity	Status
+Q4 2025	Concept & Whitepaper	✅ Completed
+Q4 2025	Smart Contract Development	✅ Completed
+Q4 2025	Testnet Deployment	⬜ Planned
+Q4 2025	Mainnet Launch & Listing	⬜ Planned
+2026	Partnerships & Integrations	⬜ Planned
+8. Use Case / Application
+
+Payments between transport companies and drivers.
+
+Automated settlement of logistics contracts.
+
+Incentives and rewards for community participants.
+
+9. Team & Contact
+
+Core Team: [jamal habub]
+
+Website: https://tpc4.webnode.be/
+
+Twitter: https://x.com/Jamalhabub94
+
+
+10. Risk & Disclaimer
+
+TPC is a utility token. Investments are subject to market risks.
+
+Users must perform their own due diligence before participating.
