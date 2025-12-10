@@ -1,0 +1,9 @@
+{
+  "status": "success",
+  "data": {
+    "circulating_supply": "500000000",
+    "total_supply": "950000000",
+    "symbol": "TPC",
+    "updated": "2025-01-01T00:00:00Z"
+  }
+}
